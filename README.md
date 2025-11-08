@@ -1,6 +1,6 @@
 # CMS Ecommerce (MVC + PHP + jQuery)
 
-**CMS Ecommerce** es un sistema de gestión de contenidos especializado en comercio electrónico, desarrollado con **PHP** bajo el patrón **MVC** y potenciado con **jQuery** para interactividad del lado del cliente. Combina la gestión de contenidos con herramientas completas de tienda en línea, ofreciendo seguridad, escalabilidad y un rendimiento eficiente. Permite administrar productos, categorías, inventario, pedidos, usuarios y contenido web desde un panel intuitivo, mientras jQuery mejora la experiencia del usuario con animaciones, validaciones y actualizaciones dinámicas mediante AJAX. Desarrollado siguiendo buenas prácticas y estándares de PHP, garantiza estabilidad, mantenimiento sencillo y compatibilidad con dispositivos y navegadores modernos, brindando una experiencia adaptable tanto para administradores como para compradores.
+**CMS Ecommerce** es un sistema de gestión de contenidos especializado en comercio electrónico, desarrollado con **PHP** bajo el patrón **MVC** y potenciado con **jQuery** para interactividad del lado del cliente. Permite administrar productos, categorías, inventario, pedidos, usuarios y contenido web desde un panel intuitivo, mientras jQuery mejora la experiencia del usuario con animaciones, validaciones y actualizaciones dinámicas mediante AJAX.
 
 ## Demo del Proyecto
 
